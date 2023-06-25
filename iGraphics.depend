@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1687687768 source:f:\igraphics\imain.cpp
+	"iGraphics.h"
+	<string.h>
+	<math.h>
+
+1677073016 f:\igraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	"GL/glut.h"
+	<time.h>
+	<math.h>
+	<windows.h>
+	<GL/glaux.h>
+	"stb_image.h"
+
+1677073016 f:\igraphics\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
